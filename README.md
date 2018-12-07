@@ -5,3 +5,8 @@ able to predict the performance of stocks, where "performance" is defined as "wh
 this company see over the next 5 years?
 
 I parameters I intend to train on will reflect the long term earnings potential of the company. They are:
+* PE ratio
+* FCF per share
+* Current Ratio
+* Debt to Equity ratio
+* R&D ratio (R&D expenses/operating expenses)
